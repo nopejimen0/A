@@ -14,6 +14,6 @@
   },
   "homepage": "https://github.com/nopejimen0/hello-hou#readme",
   "dependencies": {
-    "b": "git://github.com/nopejimen0/B"
+    "colors": "git://github.com/nopejimen0/B"
   }
 }
