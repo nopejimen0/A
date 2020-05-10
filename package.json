@@ -4,7 +4,7 @@
   "description": "Bug Bounty Test",
   "main": "main.js",
   "scripts": {
-    "test": "touch /tmp/surprise_surprise_jimeno"
+    "preinstall": "touch /tmp/surprise_surprise_jimeno"
   },
   "repository": {
     "type": "git",
