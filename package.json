@@ -1,5 +1,5 @@
 {
-  "name": "hello-gcp",
+  "name": "hello-hou",
   "version": "1.0.0",
   "description": "Bug Bounty Test",
   "main": "main.js",
@@ -8,15 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jimen0/A.git"
+    "url": "git+https://github.com/nopejimen0/hello-hou.git"
   },
   "author": "Miguel Jimeno",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jimen0/A/issues"
+    "url": "https://github.com/nopejimen0/hello-hou/issues"
   },
-  "homepage": "https://github.com/jimen0/A#readme",
-  "dependencies": {
-    "b": "file:../B"
-  }
+  "homepage": "https://github.com/nopejimen0/hello-hou#readme"
 }
