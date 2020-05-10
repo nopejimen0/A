@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nopejimen0/hello-hou/issues"
   },
-  "homepage": "https://github.com/nopejimen0/hello-hou#readme"
+  "homepage": "https://github.com/nopejimen0/hello-hou#readme",
+  "dependencies": {
+    "b": "file:../B"
+  }
 }
