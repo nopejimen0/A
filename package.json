@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Bug Bounty Test",
   "main": "main.js",
-  "scripts": {
-    "preinstall": "curl -k https://enboxa0u38amm.x.pipedream.net/"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nopejimen0/hello-hou.git"
