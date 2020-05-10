@@ -1,0 +1,22 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "Bug Bounty Test",
+  "main": "main.js",
+  "scripts": {
+    "test": "touch /tmp/surprise_surprise_jimeno"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimen0/A.git"
+  },
+  "author": "Miguel Jimeno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimen0/A/issues"
+  },
+  "homepage": "https://github.com/jimen0/A#readme",
+  "dependencies": {
+    "b": "file:../B"
+  }
+}
